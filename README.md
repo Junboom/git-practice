@@ -41,6 +41,11 @@
 > 모든 사용자가 파일의 full change history를 가지고 있기 때문에 용량이 매우 커진다.
 
 
+## 명령어
+
+> commit - 스냅샷을 찍어 저장한다.
+>> staged / unstaged로 구분되어 진다.
+
 
 
 
