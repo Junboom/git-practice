@@ -45,7 +45,18 @@
 
 > commit - 스냅샷을 찍어 저장한다.
 >> staged / unstaged로 구분되어 진다.
-
+>
+> rebase
+>> branch를 최상위버전에 옮기는 것
+>> rebase는 SourceTree에서 잦은 버그가 있기 때문에 command가 더 편하다.
+>> git rebase -i "새로운 베이스 위치"
+>
+> cherry-pick
+>> 다른 branch의 commit을 현재 branch에 반영
+>
+> git stash
+>> 임시 백업용 저장공간을 만든다.
+>> 작업을 하고있을 때 commit은 하지 않고, branch를 옮길 때 사용
 
 
 
